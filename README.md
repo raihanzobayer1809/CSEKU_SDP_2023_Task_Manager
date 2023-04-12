@@ -15,12 +15,12 @@ Supervised by
 
 Dr. Kazi Masudul Alam
 Professor 
-Computer Science & Engineering Discipline
+Computer Science & Engineering Discipline,
 Khulna University, Khulna, Bangladesh 
  
-                    &
+       
                     
 Dr. Amit Kumar Mondal
 Associate Professor 
-Computer Science & Engineering Discipline
+Computer Science & Engineering Discipline,
 Khulna University, Khulna, Bangladesh
