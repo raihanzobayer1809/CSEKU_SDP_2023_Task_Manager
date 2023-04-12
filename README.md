@@ -3,9 +3,9 @@ Software Development Project
 
 Author
 ------------------
-Raihan Zobayer
-Student ID : 180209
-Computer Science & Engineering Discipline
+Raihan Zobayer,
+Student ID : 180209,
+Computer Science & Engineering Discipline,
 Khulna University
 
 Language:
@@ -16,14 +16,14 @@ Kivy python
 Supervised by
 ----------------
 
-Dr. Kazi Masudul Alam
-Professor 
+Dr. Kazi Masudul Alam,
+Professor ,
 Computer Science & Engineering Discipline,
 Khulna University, Khulna, Bangladesh 
  
        
                     
-Dr. Amit Kumar Mondal
-Associate Professor 
+Dr. Amit Kumar Mondal,
+Associate Professor,
 Computer Science & Engineering Discipline,
 Khulna University, Khulna, Bangladesh
