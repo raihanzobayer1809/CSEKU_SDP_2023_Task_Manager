@@ -8,6 +8,9 @@ Student ID : 180209
 Computer Science & Engineering Discipline
 Khulna University
 
+Language:
+-------------------
+Kivy python
 
 
 Supervised by
